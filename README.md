@@ -1,6 +1,6 @@
 # My To-Do List
 
-<img src="/screenshot.png"  width=200px height=200px>
+<img src="To-do-list/screenshot.png"  width=300px height=300px>
 Welcome to my to-do list! This is a simple tool to help organize and manage my tasks effectively.
 i tried to code using react eith some help to learn.
 
