@@ -1,6 +1,6 @@
 # My To-Do List
 
-<img src="sreenshot.png"  width=300px height=300px>
+<img src="sreenshot.png"  width=500px height=500px>
 <p></p>
 <h1>
 Welcome to my to-do list!
